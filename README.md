@@ -1,6 +1,10 @@
-# React
+# React Practice Projects
 
-# 1. Weather Card 🌦️
+Welcome to the React Practice Projects repository! This repository is dedicated to various React projects aimed at helping you practice and enhance your React skills. Currently, it contains one project, **Weather Card**, but it will be regularly updated with more exciting projects as I continue my practice.
+
+## Projects
+
+## 1. Weather Card 🌦️
 
 ## Overview
 
