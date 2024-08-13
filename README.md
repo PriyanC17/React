@@ -56,4 +56,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgements
 - OpenWeatherMap for the weather API.
 - Unsplash for the background images.
->>>>>>> 28fafe0fa7631e22c7e2c02a55ed88971de7f398
+
