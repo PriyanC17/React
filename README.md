@@ -39,7 +39,7 @@ Weather Card is a React.js application that provides real-time weather updates f
    git clone https://github.com/PriyanC17/React.git
 2. Navigate to the project directory:
    ```bash
-   cd weather-card
+   cd weathercard
 3. Install the dependencies:
    ```bash
    npm install
