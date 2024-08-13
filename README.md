@@ -24,7 +24,7 @@ Weather Card is a React.js application that provides real-time weather updates f
 - **React.js**: The core framework used to build the UI components.
 - **Axios**: For making API requests to retrieve weather data.
 - **OpenWeatherMap API**: The source of the weather data used in the application.
-- **CSS/SCSS**: For styling the application and ensuring a responsive design.
+- **CSS**: For styling the application and ensuring a responsive design.
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ Weather Card is a React.js application that provides real-time weather updates f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-card.git
+   git clone https://github.com/PriyanC17/React.git
 2. Navigate to the project directory:
    ```bash
    cd weather-card
